@@ -1,0 +1,13 @@
+.columnConfig {
+    border: 1px solid gray;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.columnItem {
+    display: flex;
+
+    input {
+        margin-right: 10px;
+    }
+}
